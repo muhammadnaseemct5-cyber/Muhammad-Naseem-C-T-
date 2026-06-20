@@ -3,8 +3,8 @@ Cybersecurity labs, projects, and notes documenting my SOC Analyst learning jour
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Cybersecurity+Learner;SOC+Analyst+in+Progress;Hands-on+Labs+and+Projects)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Naseem-C-T&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadnaseemct5-cyber&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Naseem-C-T&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadnaseemct5-cyber&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Naseem-C-T&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadnaseemct5-cyber&theme=radical)
