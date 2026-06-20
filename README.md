@@ -1,7 +1,9 @@
 # Muhammad-Naseem-C-T-
 Cybersecurity labs, projects, and notes documenting my SOC Analyst learning journey. Includes hands‑on work with Splunk, Wireshark, Burp Suite, and networking fundamentals, focusing on threat detection, incident response, and defensive security practices.
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Cybersecurity+Learner;SOC+Analyst+in+Progress;Hands-on+Labs+and+Projects)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Cybersecurity+Learner;SOC+Analyst+in+Progress)
+
+<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="400" alt="Cybersecurity Cartoon Animation">
 
 ## About Me
 - 🔐 Cybersecurity learner passionate about SOC Analyst career path  
