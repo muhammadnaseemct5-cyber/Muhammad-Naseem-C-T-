@@ -17,8 +17,4 @@ Cybersecurity labs, projects, and notes documenting my SOC Analyst learning jour
 - Networking fundamentals – TCP/IP, protocols, threat detection  
 - Vulnerability analysis – OWASP Top 10, exploitation & remediation
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadnaseemct5-cyber&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadnaseemct5-cyber&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadnaseemct5-cyber&theme=radical)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=🔐+Cybersecurity+Learner;🛡️+SOC+Analyst+in+Progress;📊+Splunk+Log+Analysis;🌐+Wireshark+Packet+Analysis;🕵️+Burp+Suite+Web+Testing;⚔️+Defensive+Security+Labs)
