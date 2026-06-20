@@ -3,10 +3,22 @@ Cybersecurity labs, projects, and notes documenting my SOC Analyst learning jour
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Cybersecurity+Learner;SOC+Analyst+in+Progress;Hands-on+Labs+and+Projects)
 
+## About Me
+- 🔐 Cybersecurity learner passionate about SOC Analyst career path  
+- 🎓 Background in Psychology, strong analytical and problem-solving skills  
+- 🛠️ Hands-on with Splunk, Wireshark, Burp Suite, and networking fundamentals  
+- 📚 Exploring labs on TryHackMe, HackTheBox, and VulnHub  
+- 🌱 Documenting my learning journey and projects here on GitHub
+
+## Skills
+- Splunk – log analysis, detection rules  
+- Wireshark – packet capture and traffic analysis  
+- Burp Suite – web application security testing  
+- Networking fundamentals – TCP/IP, protocols, threat detection  
+- Vulnerability analysis – OWASP Top 10, exploitation & remediation
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadnaseemct5-cyber&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadnaseemct5-cyber&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadnaseemct5-cyber&theme=radical)
-
-![Profile Views](https://komarev.com/ghpvc/?username=muhammadnaseemct5-cyber&color=blue)
