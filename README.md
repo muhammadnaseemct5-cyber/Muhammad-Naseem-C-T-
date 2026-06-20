@@ -3,8 +3,6 @@ Cybersecurity labs, projects, and notes documenting my SOC Analyst learning jour
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Cybersecurity+Learner;SOC+Analyst+in+Progress)
 
-<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="400" alt="Cybersecurity Cartoon Animation">
-
 ## About Me
 - 🔐 Cybersecurity learner passionate about SOC Analyst career path  
 - 🎓 Background in Psychology, strong analytical and problem-solving skills  
